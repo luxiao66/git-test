@@ -6,6 +6,7 @@ public class FirstClass {
         System.out.println("hello");
         test();
         //hello
+        //hao
     }
     public static void test(){
         int i=1;
